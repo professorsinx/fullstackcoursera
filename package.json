@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "full-stack-web-dev-coursera",
+  "version": "1.0.0",
+  "description": "Hong Kong Univerity of Sci and Tech coursera course.Yea ! Im learning",
+  "main": "index.html",
+  "devDependencies": {
+
+},
+  "scripts": {
+  	 "start": "npm run lite", 
+	 "test": "echo \"Error: no test specified\" && exit 1"
+	,"lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/professorsinx/fullstackcoursera.git"
+  },
+  "author": "professorsinx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/professorsinx/fullstackcoursera/issues"
+  },
+  "homepage": "https://github.com/professorsinx/fullstackcoursera#readme"
+}
